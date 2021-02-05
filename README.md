@@ -1,6 +1,6 @@
 ### Hello! Hallo! 👋
 ---
-My name is Duco and I am an (embedded) software developer [@HomeWizard](https://www.homewizard.nl). I am also the developer of the Home Assistant '[HomeWizard Energy' integration](https://github.com/DCSBL/ha-homewizard-energy).
+My name is Duco and I am an (embedded) software developer [@HomeWizard](https://www.homewizard.nl). I am also the developer of the Home Assistant ['HomeWizard Energy' integration](https://github.com/DCSBL/ha-homewizard-energy).
 
 ## 🔧 My Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
